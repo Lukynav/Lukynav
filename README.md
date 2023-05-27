@@ -1,6 +1,5 @@
 <main>
-  <img class='header__pic' style='border-radius:18px;' src='./images/header.png'>
-  <br/>
+  <img src='./images/header.png'>
   <h3>👋 About me</h3>
   <p>
     I am a <b>positive</b>, <b>dedicated</b>, and <b>self-taught</b> person. I seek to constantly train myself in new technologies focusing on soft skills, IT development, SEO performance, and Informatic security.
