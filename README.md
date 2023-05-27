@@ -25,14 +25,10 @@
         alt='lukynav github stats'
     />
     <h3>🎙️ Social media</h3>
-    <section class='social__box'>
         <a href='https://www.linkedin.com/in/lucasnav/'>
-            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" height="24" alt="linkedin logo"  />
-            Lucas Navarro
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
         </a>
         <a href='https://discordapp.com/users/586968018441994250'>
-            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="28" height="28" alt="discord logo"  />
-            Lukynav#5925
+            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="46" height="46" alt="discord logo"  />
         </a>
-    </section>
 </main>
